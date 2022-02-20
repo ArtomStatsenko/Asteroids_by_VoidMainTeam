@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e2fb41911b94d144eabecf38d30cc099
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _playerShip: {fileID: 11400000, guid: 3ea4ba5563478624a850c20a256cff94, type: 2}
+  - _enemyShip: {fileID: 11400000, guid: 4c9e484abb6273049ab323086e8db40b, type: 2}
+  - _playerBullet: {fileID: 11400000, guid: 6864a7eb38b02d04ca6cc775b6ad5d54, type: 2}
+  - _enemyBullet: {fileID: 11400000, guid: 6af0672382d27cd4fafdf0f9e6d51977, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

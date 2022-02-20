@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 9170227891842006368}
   - component: {fileID: 524688253371312636}
   - component: {fileID: 2786881630711817115}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Cube (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -92,7 +92,7 @@ GameObject:
   - component: {fileID: 7850900316533566397}
   - component: {fileID: 5706356016365260307}
   - component: {fileID: 8783239101753145391}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Cube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -174,7 +174,7 @@ GameObject:
   - component: {fileID: 227961393450735886}
   - component: {fileID: 4985426771095216659}
   - component: {fileID: 3805159932877964109}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Asteroid
   m_TagString: Untagged
   m_Icon: {fileID: 0}
